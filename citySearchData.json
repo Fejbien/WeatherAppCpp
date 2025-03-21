@@ -1,0 +1,1500 @@
+[
+    {
+        "id": 11,
+        "city": "Świeradów-Zdrój",
+        "district": "lubański",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Czerniawa"
+    },
+    {
+        "id": 16,
+        "city": "Dzierżoniów",
+        "district": "dzierżoniowski",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Dzierżoniów, ul. Piłsudskiego"
+    },
+    {
+        "id": 38,
+        "city": "Kłodzko",
+        "district": "kłodzki",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Kłodzko, ul. Szkolna"
+    },
+    {
+        "id": 52,
+        "city": "Legnica",
+        "district": "Legnica",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Legnica, al. Rzeczypospolitej"
+    },
+    {
+        "id": 114,
+        "city": "Wrocław",
+        "district": "Wrocław",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Wrocław, ul. Bartnicza"
+    },
+    {
+        "id": 117,
+        "city": "Wrocław",
+        "district": "Wrocław",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Wrocław, wyb. Conrada-Korzeniowskiego"
+    },
+    {
+        "id": 129,
+        "city": "Wrocław",
+        "district": "Wrocław",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Wrocław, al. Wiśniowa"
+    },
+    {
+        "id": 143,
+        "city": "Inowrocław",
+        "district": "inowrocławski",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Inowrocław, ul. Solankowa"
+    },
+    {
+        "id": 156,
+        "city": "Bydgoszcz",
+        "district": "Bydgoszcz",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Bydgoszcz, pl. Poznański"
+    },
+    {
+        "id": 158,
+        "city": "Bydgoszcz",
+        "district": "Bydgoszcz",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Bydgoszcz, ul. Warszawska"
+    },
+    {
+        "id": 190,
+        "city": "Łysomice",
+        "district": "toruński",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Koniczynka, Pojezierze Chełmińskie"
+    },
+    {
+        "id": 206,
+        "city": "Toruń",
+        "district": "Toruń",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Toruń, ul. Dziewulskiego"
+    },
+    {
+        "id": 208,
+        "city": "Toruń",
+        "district": "Toruń",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Toruń, ul. Przy Kaszowniku"
+    },
+    {
+        "id": 232,
+        "city": "Tuchola",
+        "district": "tucholski",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Zielonka, Bory Tucholskie"
+    },
+    {
+        "id": 266,
+        "city": "Lublin",
+        "district": "Lublin",
+        "province": "LUBELSKIE",
+        "station_street": "Lublin, ul. Obywatelska"
+    },
+    {
+        "id": 291,
+        "city": "Witonia",
+        "district": "łęczycki",
+        "province": "ŁÓDZKIE",
+        "station_street": "Gajew, Ujęcie Wody"
+    },
+    {
+        "id": 295,
+        "city": "Łódź",
+        "district": "Łódź",
+        "province": "ŁÓDZKIE",
+        "station_street": "Łódź, ul. Czernika"
+    },
+    {
+        "id": 296,
+        "city": "Łódź",
+        "district": "Łódź",
+        "province": "ŁÓDZKIE",
+        "station_street": "Łódź, ul. Gdańska"
+    },
+    {
+        "id": 314,
+        "city": "Pabianice",
+        "district": "pabianicki",
+        "province": "ŁÓDZKIE",
+        "station_street": "Pabianice, ul. Konstantynowska"
+    },
+    {
+        "id": 319,
+        "city": "Wola Krzysztoporska",
+        "district": "piotrkowski",
+        "province": "ŁÓDZKIE",
+        "station_street": "Parzniewice, Ujęcie Wody"
+    },
+    {
+        "id": 322,
+        "city": "Piotrków Trybunalski",
+        "district": "Piotrków Trybunalski",
+        "province": "ŁÓDZKIE",
+        "station_street": "Piotrków Trybunalski, ul. Krakowskie Przedmieście"
+    },
+    {
+        "id": 361,
+        "city": "Gorzów Wielkopolski",
+        "district": "Gorzów Wielkopolski",
+        "province": "LUBUSKIE",
+        "station_street": "Gorzów Wlkp. ul. Kosynierów Gdyńskich"
+    },
+    {
+        "id": 376,
+        "city": "Sulęcin",
+        "district": "sulęciński",
+        "province": "LUBUSKIE",
+        "station_street": "Sulęcin ul. Dudka"
+    },
+    {
+        "id": 379,
+        "city": "Wschowa",
+        "district": "wschowski",
+        "province": "LUBUSKIE",
+        "station_street": "Wschowa ul. Kazimierza Wielkiego"
+    },
+    {
+        "id": 400,
+        "city": "Kraków",
+        "district": "Kraków",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Kraków, Aleja Krasińskiego"
+    },
+    {
+        "id": 402,
+        "city": "Kraków",
+        "district": "Kraków",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Kraków, ul. Bulwarowa"
+    },
+    {
+        "id": 437,
+        "city": "Skawina",
+        "district": "krakowski",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Skawina, os. Ogrody"
+    },
+    {
+        "id": 443,
+        "city": "Gorlice",
+        "district": "gorlicki",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Szymbark"
+    },
+    {
+        "id": 444,
+        "city": "Tarnów",
+        "district": "Tarnów",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Tarnów, ul. Bitwy pod Studziankami"
+    },
+    {
+        "id": 449,
+        "city": "Trzebinia",
+        "district": "chrzanowski",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Trzebinia, os. Związku Walki Młodych"
+    },
+    {
+        "id": 488,
+        "city": "Piastów",
+        "district": "pruszkowski",
+        "province": "MAZOWIECKIE",
+        "station_street": "Piastów, ul. Pułaskiego"
+    },
+    {
+        "id": 501,
+        "city": "Płock",
+        "district": "Płock",
+        "province": "MAZOWIECKIE",
+        "station_street": "Płock, ul. Reja"
+    },
+    {
+        "id": 515,
+        "city": "Radom",
+        "district": "Radom",
+        "province": "MAZOWIECKIE",
+        "station_street": "Radom, ul. Tochtermana"
+    },
+    {
+        "id": 517,
+        "city": "Siedlce",
+        "district": "Siedlce",
+        "province": "MAZOWIECKIE",
+        "station_street": "Siedlce, ul. Konarskiego"
+    },
+    {
+        "id": 538,
+        "city": "Warszawa",
+        "district": "Warszawa",
+        "province": "MAZOWIECKIE",
+        "station_street": "Warszawa, ul. Tołstoja"
+    },
+    {
+        "id": 550,
+        "city": "Warszawa",
+        "district": "Warszawa",
+        "province": "MAZOWIECKIE",
+        "station_street": "Warszawa, ul. Wokalna"
+    },
+    {
+        "id": 552,
+        "city": "Warszawa",
+        "district": "Warszawa",
+        "province": "MAZOWIECKIE",
+        "station_street": "Warszawa, ul. Kondratowicza"
+    },
+    {
+        "id": 568,
+        "city": "Kędzierzyn-Koźle",
+        "district": "kędzierzyńsko-kozielski",
+        "province": "OPOLSKIE",
+        "station_street": "Kędzierzyn-Koźle, ul. Śmiałego"
+    },
+    {
+        "id": 725,
+        "city": "Słupsk",
+        "district": "Słupsk",
+        "province": "POMORSKIE",
+        "station_street": "Słupsk, ul. Kniaziewicza"
+    },
+    {
+        "id": 729,
+        "city": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "POMORSKIE",
+        "station_street": "Gdańsk, ul. Powstańców Warszawskich"
+    },
+    {
+        "id": 731,
+        "city": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "POMORSKIE",
+        "station_street": "Gdańsk, ul. Wyzwolenia"
+    },
+    {
+        "id": 736,
+        "city": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "POMORSKIE",
+        "station_street": "Gdańsk, ul. Leczkowa"
+    },
+    {
+        "id": 740,
+        "city": "Kościerzyna",
+        "district": "kościerski",
+        "province": "POMORSKIE",
+        "station_street": "Kościerzyna, ul. Targowa"
+    },
+    {
+        "id": 743,
+        "city": "Nowa Karczma",
+        "district": "kościerski",
+        "province": "POMORSKIE",
+        "station_street": "Liniewko Kościerskie"
+    },
+    {
+        "id": 798,
+        "city": "Częstochowa",
+        "district": "Częstochowa",
+        "province": "ŚLĄSKIE",
+        "station_street": "Częstochowa, ul. AK/Jana Pawła II"
+    },
+    {
+        "id": 800,
+        "city": "Częstochowa",
+        "district": "Częstochowa",
+        "province": "ŚLĄSKIE",
+        "station_street": "Częstochowa, ul. Baczyńskiego"
+    },
+    {
+        "id": 805,
+        "city": "Dąbrowa Górnicza",
+        "district": "Dąbrowa Górnicza",
+        "province": "ŚLĄSKIE",
+        "station_street": "Dąbrowa Górnicza, ul. Tysiąclecia"
+    },
+    {
+        "id": 834,
+        "city": "Rybnik",
+        "district": "Rybnik",
+        "province": "ŚLĄSKIE",
+        "station_street": "Rybnik, ul. Borki"
+    },
+    {
+        "id": 837,
+        "city": "Sosnowiec",
+        "district": "Sosnowiec",
+        "province": "ŚLĄSKIE",
+        "station_street": "Sosnowiec, ul. Lubelska"
+    },
+    {
+        "id": 842,
+        "city": "Ustroń",
+        "district": "cieszyński",
+        "province": "ŚLĄSKIE",
+        "station_street": "Ustroń, ul. Sanatoryjna"
+    },
+    {
+        "id": 845,
+        "city": "Wodzisław Śląski",
+        "district": "wodzisławski",
+        "province": "ŚLĄSKIE",
+        "station_street": "Wodzisław Śląski, ul. Gałczyńskiego"
+    },
+    {
+        "id": 853,
+        "city": "Janów",
+        "district": "częstochowski",
+        "province": "ŚLĄSKIE",
+        "station_street": "Złoty Potok, Leśniczówka"
+    },
+    {
+        "id": 861,
+        "city": "Elbląg",
+        "district": "Elbląg",
+        "province": "WARMIŃSKO-MAZURSKIE",
+        "station_street": "Elbląg, ul. Bażyńskiego"
+    },
+    {
+        "id": 870,
+        "city": "Gołdap",
+        "district": "gołdapski",
+        "province": "WARMIŃSKO-MAZURSKIE",
+        "station_street": "Gołdap, ul. Jaćwieska"
+    },
+    {
+        "id": 877,
+        "city": "Olsztyn",
+        "district": "Olsztyn",
+        "province": "WARMIŃSKO-MAZURSKIE",
+        "station_street": "Olsztyn, ul. Puszkina"
+    },
+    {
+        "id": 902,
+        "city": "Konin",
+        "district": "Konin",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Konin, ul. Wyszyńskiego"
+    },
+    {
+        "id": 944,
+        "city": "Poznań",
+        "district": "Poznań",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Poznań, ul. Dąbrowskiego"
+    },
+    {
+        "id": 986,
+        "city": "Szczecin",
+        "district": "Szczecin",
+        "province": "ZACHODNIOPOMORSKIE",
+        "station_street": "Szczecin, ul. Andrzejewskiego"
+    },
+    {
+        "id": 987,
+        "city": "Szczecin",
+        "district": "Szczecin",
+        "province": "ZACHODNIOPOMORSKIE",
+        "station_street": "Szczecin, ul. Piłsudskiego"
+    },
+    {
+        "id": 382,
+        "city": "Żary",
+        "district": "żarski",
+        "province": "LUBUSKIE",
+        "station_street": "Żary, ul. Szymanowskiego "
+    },
+    {
+        "id": 9153,
+        "city": "Jelenia Góra",
+        "district": "Jelenia Góra",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Jelenia Góra, ul. Ogińskiego"
+    },
+    {
+        "id": 600,
+        "city": "Zdzieszowice",
+        "district": "krapkowicki",
+        "province": "OPOLSKIE",
+        "station_street": "Zdzieszowice, ul. Piastów"
+    },
+    {
+        "id": 562,
+        "city": "Żyrardów",
+        "district": "żyrardowski",
+        "province": "MAZOWIECKIE",
+        "station_street": "Żyrardów, ul. Roosevelta"
+    },
+    {
+        "id": 952,
+        "city": "Kalisz",
+        "district": "Kalisz",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Kalisz, ul. Wyszyńskiego"
+    },
+    {
+        "id": 236,
+        "city": "Biała Podlaska",
+        "district": "Biała Podlaska",
+        "province": "LUBELSKIE",
+        "station_street": "Biała Podlaska, ul. Orzechowa"
+    },
+    {
+        "id": 9791,
+        "city": "Włocławek",
+        "district": "Włocławek",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Włocławek, ul. Kaliska"
+    },
+    {
+        "id": 10030,
+        "city": "Ostróda",
+        "district": "ostródzki",
+        "province": "WARMIŃSKO-MAZURSKIE",
+        "station_street": "Ostróda, ul. Piłsudskiego"
+    },
+    {
+        "id": 10119,
+        "city": "Liszki",
+        "district": "krakowski",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Kaszów"
+    },
+    {
+        "id": 950,
+        "city": "Kórnik",
+        "district": "poznański",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Borówiec, ul. Drapałka"
+    },
+    {
+        "id": 10123,
+        "city": "Kraków",
+        "district": "Kraków",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Kraków, ul. Złoty Róg"
+    },
+    {
+        "id": 10438,
+        "city": "Mielec",
+        "district": "mielecki",
+        "province": "PODKARPACKIE",
+        "station_street": "Mielec, ul. Biernackiego"
+    },
+    {
+        "id": 10447,
+        "city": "Kraków",
+        "district": "Kraków",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Kraków, os. Wadów"
+    },
+    {
+        "id": 10794,
+        "city": "Małogoszcz",
+        "district": "jędrzejowski",
+        "province": "ŚWIĘTOKRZYSKIE",
+        "station_street": "Małogoszcz, ul. Słoneczna"
+    },
+    {
+        "id": 10834,
+        "city": "Czerwonak",
+        "district": "poznański",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Koziegłowy, os.Leśne"
+    },
+    {
+        "id": 225,
+        "city": "Włocławek",
+        "district": "Włocławek",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Włocławek, ul. Okrzei"
+    },
+    {
+        "id": 584,
+        "city": "Olesno",
+        "district": "oleski",
+        "province": "OPOLSKIE",
+        "station_street": "Olesno, ul. Słowackiego"
+    },
+    {
+        "id": 11174,
+        "city": "Białystok",
+        "district": "Białystok",
+        "province": "PODLASKIE",
+        "station_street": "Białystok, ul. 42 Pułku Piechoty"
+    },
+    {
+        "id": 11195,
+        "city": "Kielce",
+        "district": "Kielce",
+        "province": "ŚWIĘTOKRZYSKIE",
+        "station_street": "Kielce, ul. Targowa"
+    },
+    {
+        "id": 11358,
+        "city": "Stara Biała",
+        "district": "płocki",
+        "province": "MAZOWIECKIE",
+        "station_street": "Biała, ul. Kmicica"
+    },
+    {
+        "id": 10955,
+        "city": "Warszawa",
+        "district": "Warszawa",
+        "province": "MAZOWIECKIE",
+        "station_street": "Warszawa, ul. Chrościckiego"
+    },
+    {
+        "id": 590,
+        "city": "Opole",
+        "district": "Opole",
+        "province": "OPOLSKIE",
+        "station_street": "Opole, os. Armii Krajowej"
+    },
+    {
+        "id": 11336,
+        "city": "Koszalin",
+        "district": "Koszalin",
+        "province": "ZACHODNIOPOMORSKIE",
+        "station_street": "Koszalin, ul. Chopina"
+    },
+    {
+        "id": 966,
+        "city": "Koszalin",
+        "district": "Koszalin",
+        "province": "ZACHODNIOPOMORSKIE",
+        "station_street": "Koszalin, ul. Armii Krajowej"
+    },
+    {
+        "id": 11554,
+        "city": "Łask",
+        "district": "łaski",
+        "province": "ŁÓDZKIE",
+        "station_street": "Łask, ul. Narutowicza"
+    },
+    {
+        "id": 11754,
+        "city": "Kije",
+        "district": "pińczowski",
+        "province": "ŚWIĘTOKRZYSKIE",
+        "station_street": "Gołuchów, Ujęcie Wody"
+    },
+    {
+        "id": 11794,
+        "city": "Racibórz",
+        "district": "raciborski",
+        "province": "ŚLĄSKIE",
+        "station_street": "Racibórz, Wojska Polskiego"
+    },
+    {
+        "id": 10814,
+        "city": "Oświęcim",
+        "district": "oświęcimski",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Oświęcim, ul. J. Bema"
+    },
+    {
+        "id": 11814,
+        "city": "Białystok",
+        "district": "Białystok",
+        "province": "PODLASKIE",
+        "station_street": "Białystok, al.Piłsudskiego"
+    },
+    {
+        "id": 11916,
+        "city": "Augustów",
+        "district": "augustowski",
+        "province": "PODLASKIE",
+        "station_street": "Augustów, Uzdrowisko"
+    },
+    {
+        "id": 9798,
+        "city": "Nakło nad Notecią",
+        "district": "nakielski",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Nakło nad Notecią, ul. Św. Wawrzyńca"
+    },
+    {
+        "id": 10374,
+        "city": "Opole",
+        "district": "Opole",
+        "province": "OPOLSKIE",
+        "station_street": "Opole, ul. Koszyka"
+    },
+    {
+        "id": 16196,
+        "city": "Kielce",
+        "district": "Kielce",
+        "province": "ŚWIĘTOKRZYSKIE",
+        "station_street": "Kielce, ul. Warszawska 108"
+    },
+    {
+        "id": 16180,
+        "city": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "POMORSKIE",
+        "station_street": "Gdańsk, Al. Grunwaldzka"
+    },
+    {
+        "id": 16242,
+        "city": "Sopot",
+        "district": "Sopot",
+        "province": "POMORSKIE",
+        "station_street": "Sopot, ul. Bitwy Pod Płowcami"
+    },
+    {
+        "id": 10018,
+        "city": "Głubczyce",
+        "district": "głubczycki",
+        "province": "OPOLSKIE",
+        "station_street": "Głubczyce, ul. Ratuszowa"
+    },
+    {
+        "id": 16413,
+        "city": "Brzeg",
+        "district": "brzeski",
+        "province": "OPOLSKIE",
+        "station_street": "Brzeg, ul. Poprzeczna"
+    },
+    {
+        "id": 882,
+        "city": "Kruklanki",
+        "district": "giżycki",
+        "province": "WARMIŃSKO-MAZURSKIE",
+        "station_street": "Diabla Góra, Puszcza Borecka"
+    },
+    {
+        "id": 10005,
+        "city": "Ełk",
+        "district": "ełcki",
+        "province": "WARMIŃSKO-MAZURSKIE",
+        "station_street": "Ełk, ul. Piłsudskiego"
+    },
+    {
+        "id": 16896,
+        "city": "Kraków",
+        "district": "Kraków",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Kraków, ul. Kamieńskiego"
+    },
+    {
+        "id": 17318,
+        "city": "Katowice",
+        "district": "Katowice",
+        "province": "ŚLĄSKIE",
+        "station_street": "Katowice, ul. Dudy-Gracza"
+    },
+    {
+        "id": 17880,
+        "city": "Zabrze",
+        "district": "Zabrze",
+        "province": "ŚLĄSKIE",
+        "station_street": "Zabrze, ul. M. Skłodowskiej-Curie"
+    },
+    {
+        "id": 20367,
+        "city": "Kraków",
+        "district": "Kraków",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Kraków, ul. Półłanki"
+    },
+    {
+        "id": 9114,
+        "city": "Ostrołęka",
+        "district": "Ostrołęka",
+        "province": "MAZOWIECKIE",
+        "station_street": "Ostrołęka, ul. Hallera"
+    },
+    {
+        "id": 70,
+        "city": "Oława",
+        "district": "oławski",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Oława, ul. Żołnierzy Armii Krajowej"
+    },
+    {
+        "id": 74,
+        "city": "Osiecznica",
+        "district": "bolesławiecki",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Osieczów"
+    },
+    {
+        "id": 109,
+        "city": "Wałbrzych",
+        "district": "Wałbrzych",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Wałbrzych, ul. Wysockiego"
+    },
+    {
+        "id": 145,
+        "city": "Toruń",
+        "district": "Toruń",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Toruń, ul. Wały gen. Sikorskiego"
+    },
+    {
+        "id": 285,
+        "city": "Zamość",
+        "district": "Zamość",
+        "province": "LUBELSKIE",
+        "station_street": "Zamość, ul. Hrubieszowska"
+    },
+    {
+        "id": 374,
+        "city": "Bytnica",
+        "district": "krośnieński",
+        "province": "LUBUSKIE",
+        "station_street": "Smolary Bytnickie"
+    },
+    {
+        "id": 387,
+        "city": "Zielona Góra",
+        "district": "Zielona Góra",
+        "province": "LUBUSKIE",
+        "station_street": "Zielona Góra ul. Krótka"
+    },
+    {
+        "id": 401,
+        "city": "Kraków",
+        "district": "Kraków",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Kraków, ul. Bujaka"
+    },
+    {
+        "id": 459,
+        "city": "Zakopane",
+        "district": "tatrzański",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Zakopane, ul. Sienkiewicza"
+    },
+    {
+        "id": 460,
+        "city": "Grójec",
+        "district": "grójecki",
+        "province": "MAZOWIECKIE",
+        "station_street": "Belsk Duży, IGF PAN"
+    },
+    {
+        "id": 471,
+        "city": "Legionowo",
+        "district": "legionowski",
+        "province": "MAZOWIECKIE",
+        "station_street": "Legionowo, ul. Zegrzyńska"
+    },
+    {
+        "id": 497,
+        "city": "Płock",
+        "district": "Płock",
+        "province": "MAZOWIECKIE",
+        "station_street": "Płock, ul. Królowej Jadwigi"
+    },
+    {
+        "id": 530,
+        "city": "Warszawa",
+        "district": "Warszawa",
+        "province": "MAZOWIECKIE",
+        "station_street": "Warszawa, al. Niepodległości"
+    },
+    {
+        "id": 638,
+        "city": "Jasło",
+        "district": "jasielski",
+        "province": "PODKARPACKIE",
+        "station_street": "Jaslo, ul. Sikorskiego"
+    },
+    {
+        "id": 659,
+        "city": "Nisko",
+        "district": "niżański",
+        "province": "PODKARPACKIE",
+        "station_street": "Nisko, ul. Szklarniowa"
+    },
+    {
+        "id": 732,
+        "city": "Gdynia",
+        "district": "Gdynia",
+        "province": "POMORSKIE",
+        "station_street": "Gdynia, ul. Porębskiego"
+    },
+    {
+        "id": 769,
+        "city": "Nowiny",
+        "district": "kielecki",
+        "province": "ŚWIĘTOKRZYSKIE",
+        "station_street": "Nowiny, ul. Parkowa"
+    },
+    {
+        "id": 778,
+        "city": "Połaniec",
+        "district": "staszowski",
+        "province": "ŚWIĘTOKRZYSKIE",
+        "station_street": "Połaniec, ul. Ruszczańska"
+    },
+    {
+        "id": 789,
+        "city": "Bielsko-Biała",
+        "district": "Bielsko-Biała",
+        "province": "ŚLĄSKIE",
+        "station_street": "Bielsko-Biała, ul. Kossak-Szczuckiej"
+    },
+    {
+        "id": 809,
+        "city": "Gliwice",
+        "district": "Gliwice",
+        "province": "ŚLĄSKIE",
+        "station_street": "Gliwice, ul. Mewy"
+    },
+    {
+        "id": 814,
+        "city": "Katowice",
+        "district": "Katowice",
+        "province": "ŚLĄSKIE",
+        "station_street": "Katowice, ul. Kossutha"
+    },
+    {
+        "id": 841,
+        "city": "Tychy",
+        "district": "Tychy",
+        "province": "ŚLĄSKIE",
+        "station_street": "Tychy, ul. Tołstoja"
+    },
+    {
+        "id": 920,
+        "city": "Piła",
+        "district": "pilski",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Pila, ul. Kusocińskiego"
+    },
+    {
+        "id": 983,
+        "city": "Szczecinek",
+        "district": "szczecinecki",
+        "province": "ZACHODNIOPOMORSKIE",
+        "station_street": "Szczecinek, ul. Przemysłowa"
+    },
+    {
+        "id": 9179,
+        "city": "Kłaj",
+        "district": "wielicki",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Szarów, ul. Spokojna"
+    },
+    {
+        "id": 9913,
+        "city": "Czerwonka",
+        "district": "makowski",
+        "province": "MAZOWIECKIE",
+        "station_street": "Guty Duże"
+    },
+    {
+        "id": 485,
+        "city": "Otwock",
+        "district": "otwocki",
+        "province": "MAZOWIECKIE",
+        "station_street": "Otwock, ul. Brzozowa"
+    },
+    {
+        "id": 10058,
+        "city": "Łódź",
+        "district": "Łódź",
+        "province": "ŁÓDZKIE",
+        "station_street": "Łódź, al. Jana Pawła II"
+    },
+    {
+        "id": 10125,
+        "city": "Rzeszów",
+        "district": "Rzeszów",
+        "province": "PODKARPACKIE",
+        "station_street": "Rzeszów, ul. Piłsudskiego"
+    },
+    {
+        "id": 10093,
+        "city": "Duszniki-Zdrój",
+        "district": "kłodzki",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Duszniki-Zdrój, ul. Sportowa"
+    },
+    {
+        "id": 10120,
+        "city": "Tarnów",
+        "district": "Tarnów",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Tarnów, ul. Ks. Romana Sitko"
+    },
+    {
+        "id": 10158,
+        "city": "Bielsko-Biała",
+        "district": "Bielsko-Biała",
+        "province": "ŚLĄSKIE",
+        "station_street": "Bielsko-Biała, ul.Partyzantów"
+    },
+    {
+        "id": 331,
+        "city": "Radomsko",
+        "district": "radomszczański",
+        "province": "ŁÓDZKIE",
+        "station_street": "Radomsko, ul. Rolna"
+    },
+    {
+        "id": 10956,
+        "city": "Warszawa",
+        "district": "Warszawa",
+        "province": "MAZOWIECKIE",
+        "station_street": "Warszawa, ul. Bajkowa"
+    },
+    {
+        "id": 612,
+        "city": "Krynki",
+        "district": "sokólski",
+        "province": "PODLASKIE",
+        "station_street": "Borsukowizna, Szkółka Leśna"
+    },
+    {
+        "id": 11154,
+        "city": "Suwałki",
+        "district": "Suwałki",
+        "province": "PODLASKIE",
+        "station_street": "Suwałki, ul. Pułaskiego 26"
+    },
+    {
+        "id": 631,
+        "city": "Jarosław",
+        "district": "jarosławski",
+        "province": "PODKARPACKIE",
+        "station_street": "Jarosław, ul. Pruchnicka"
+    },
+    {
+        "id": 11455,
+        "city": "Zawiercie",
+        "district": "zawierciański",
+        "province": "ŚLĄSKIE",
+        "station_street": "Zawiercie, ul. K.I.Gałczyńskiego"
+    },
+    {
+        "id": 11457,
+        "city": "Goczałkowice-Zdrój",
+        "district": "pszczyński",
+        "province": "ŚLĄSKIE",
+        "station_street": "Goczałkowice Zdrój, ul. Parkowa"
+    },
+    {
+        "id": 11576,
+        "city": "Bydgoszcz",
+        "district": "Bydgoszcz",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Bydgoszcz, ul. Jeździecka"
+    },
+    {
+        "id": 11934,
+        "city": "Trzebnica",
+        "district": "trzebnicki",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Trzebnica, ul. 3 Maja"
+    },
+    {
+        "id": 12038,
+        "city": "Świecie",
+        "district": "świecki",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Świecie, al. Jana Pawła II"
+    },
+    {
+        "id": 9218,
+        "city": "Pleszew",
+        "district": "pleszewski",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Pleszew, Al. Mickiewicza"
+    },
+    {
+        "id": 742,
+        "city": "Lębork",
+        "district": "lęborski",
+        "province": "POMORSKIE",
+        "station_street": "Lębork, ul. Malczewskiego"
+    },
+    {
+        "id": 16238,
+        "city": "Sulechów",
+        "district": "zielonogórski",
+        "province": "LUBUSKIE",
+        "station_street": "Sulechów, ul. Licealna"
+    },
+    {
+        "id": 684,
+        "city": "Tarnobrzeg",
+        "district": "Tarnobrzeg",
+        "province": "PODKARPACKIE",
+        "station_street": "Tarnobrzeg, ul. Dąbrowskiej"
+    },
+    {
+        "id": 16493,
+        "city": "Poznań",
+        "district": "Poznań",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Poznań ul. Szwajcarska"
+    },
+    {
+        "id": 17658,
+        "city": "Białystok",
+        "district": "Białystok",
+        "province": "PODLASKIE",
+        "station_street": "Białystok, ul. Upalna"
+    },
+    {
+        "id": 10934,
+        "city": "Kołobrzeg",
+        "district": "kołobrzeski",
+        "province": "ZACHODNIOPOMORSKIE",
+        "station_street": "Kołobrzeg, ul. Żółkiewskiego"
+    },
+    {
+        "id": 17758,
+        "city": "Skarżysko-Kamienna",
+        "district": "skarżyski",
+        "province": "ŚWIĘTOKRZYSKIE",
+        "station_street": "Skarżysko-Kamienna, ul. 1 Maja"
+    },
+    {
+        "id": 785,
+        "city": "Starachowice",
+        "district": "starachowicki",
+        "province": "ŚWIĘTOKRZYSKIE",
+        "station_street": "Starachowice, ul. Złota"
+    },
+    {
+        "id": 20201,
+        "city": "Rzeszów",
+        "district": "Rzeszów",
+        "province": "PODKARPACKIE",
+        "station_street": "Rzeszów, ul. Kwiatkowskiego"
+    },
+    {
+        "id": 20209,
+        "city": "Ciechanów",
+        "district": "ciechanowski",
+        "province": "MAZOWIECKIE",
+        "station_street": "Ciechanów, ul. Kraszewskiego"
+    },
+    {
+        "id": 20277,
+        "city": "Tomaszów Lubelski",
+        "district": "tomaszowski",
+        "province": "LUBELSKIE",
+        "station_street": "Tomaszów Lubelski, ul. Janusza Petera"
+    },
+    {
+        "id": 20347,
+        "city": "Gdańsk",
+        "district": "Gdańsk",
+        "province": "POMORSKIE",
+        "station_street": "Gdańsk, ul. Lawendowe Wzgórze"
+    },
+    {
+        "id": 20468,
+        "city": "Lubań",
+        "district": "lubański",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Lubań, ul. Ludowa"
+    },
+    {
+        "id": 142,
+        "city": "Grudziądz",
+        "district": "Grudziądz",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Grudziądz, ul. Piłsudskiego"
+    },
+    {
+        "id": 164,
+        "city": "Ciechocinek",
+        "district": "aleksandrowski",
+        "province": "KUJAWSKO-POMORSKIE",
+        "station_street": "Ciechocinek, ul. Tężniowa"
+    },
+    {
+        "id": 741,
+        "city": "Malbork",
+        "district": "malborski",
+        "province": "POMORSKIE",
+        "station_street": "Malbork, ul. Mickiewicza"
+    },
+    {
+        "id": 946,
+        "city": "Witkowo",
+        "district": "gnieźnieński",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Piaski, Krzyżówka"
+    },
+    {
+        "id": 9175,
+        "city": "Krempna",
+        "district": "jasielski",
+        "province": "PODKARPACKIE",
+        "station_street": "Krempna, Ośrodek edukacyjno-muzealny MPN"
+    },
+    {
+        "id": 856,
+        "city": "Żywiec",
+        "district": "żywiecki",
+        "province": "ŚLĄSKIE",
+        "station_street": "Żywiec, ul. Kopernika"
+    },
+    {
+        "id": 11855,
+        "city": "Jastrzębie-Zdrój",
+        "district": "Jastrzębie-Zdrój",
+        "province": "ŚLĄSKIE",
+        "station_street": "Jastrzębie-Zdrój, Al.J.Piłsudskiego/Harcerska"
+    },
+    {
+        "id": 16271,
+        "city": "Konstancin-Jeziorna",
+        "district": "piaseczyński",
+        "province": "MAZOWIECKIE",
+        "station_street": "Konstancin-Jeziorna, ul. Żeromskiego"
+    },
+    {
+        "id": 16495,
+        "city": "Mosina",
+        "district": "poznański",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Mosina, ul. Czereśniowa"
+    },
+    {
+        "id": 16533,
+        "city": "Warszawa",
+        "district": "Warszawa",
+        "province": "MAZOWIECKIE",
+        "station_street": "Warszawa, IMGW"
+    },
+    {
+        "id": 16913,
+        "city": "Krapkowice",
+        "district": "krapkowicki",
+        "province": "OPOLSKIE",
+        "station_street": "Krapkowice, ul. 3 Maja"
+    },
+    {
+        "id": 20200,
+        "city": "Kolbuszowa",
+        "district": "kolbuszowski",
+        "province": "PODKARPACKIE",
+        "station_street": "Kolbuszowa, ul. Jana Pawła II"
+    },
+    {
+        "id": 248,
+        "city": "Wola Mysłowska",
+        "district": "łukowski",
+        "province": "LUBELSKIE",
+        "station_street": "Jarczew, IMGW"
+    },
+    {
+        "id": 282,
+        "city": "Głusk",
+        "district": "lubelski",
+        "province": "LUBELSKIE",
+        "station_street": "Wilczopole"
+    },
+    {
+        "id": 665,
+        "city": "Przemyśl",
+        "district": "Przemyśl",
+        "province": "PODKARPACKIE",
+        "station_street": "Przemyśl, ul. Grunwaldzka"
+    },
+    {
+        "id": 671,
+        "city": "Rzeszów",
+        "district": "Rzeszów",
+        "province": "PODKARPACKIE",
+        "station_street": "Rzeszów, ul. Rejtana"
+    },
+    {
+        "id": 10139,
+        "city": "Kraków",
+        "district": "Kraków",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Kraków, os. Piastów"
+    },
+    {
+        "id": 10414,
+        "city": "Rymanów",
+        "district": "krośnieński",
+        "province": "PODKARPACKIE",
+        "station_street": "Rymanów Zdrój, ul. Parkowa"
+    },
+    {
+        "id": 10874,
+        "city": "Józefów",
+        "district": "biłgorajski",
+        "province": "LUBELSKIE",
+        "station_street": "Florianka, RPN"
+    },
+    {
+        "id": 12056,
+        "city": "Chojnów",
+        "district": "legnicki",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Chojnów, ul. S. Małachowskiego "
+    },
+    {
+        "id": 12138,
+        "city": "Łagów",
+        "district": "kielecki",
+        "province": "ŚWIĘTOKRZYSKIE",
+        "station_street": "Łagów, ul. Zapłotnia"
+    },
+    {
+        "id": 20160,
+        "city": "Świnoujście",
+        "district": "Świnoujście",
+        "province": "ZACHODNIOPOMORSKIE",
+        "station_street": "Świnoujście, ul. Białoruska"
+    },
+    {
+        "id": 20447,
+        "city": "Giżycko",
+        "district": "giżycki",
+        "province": "WARMIŃSKO-MAZURSKIE",
+        "station_street": "Giżycko, ul. Wodociągowa"
+    },
+    {
+        "id": 618,
+        "city": "Łomża",
+        "district": "Łomża",
+        "province": "PODLASKIE",
+        "station_street": "Łomża, ul. Sikorskiego"
+    },
+    {
+        "id": 750,
+        "city": "Łeba",
+        "district": "lęborski",
+        "province": "POMORSKIE",
+        "station_street": "Łeba, IMGW"
+    },
+    {
+        "id": 961,
+        "city": "Widuchowa",
+        "district": "gryfiński",
+        "province": "ZACHODNIOPOMORSKIE",
+        "station_street": "Widuchowa"
+    },
+    {
+        "id": 989,
+        "city": "Szczecin",
+        "district": "Szczecin",
+        "province": "ZACHODNIOPOMORSKIE",
+        "station_street": "Szczecin, ul. Łączna"
+    },
+    {
+        "id": 10124,
+        "city": "Sucha Beskidzka",
+        "district": "suski",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Sucha Beskidzka, ul. Nieszczyńskiej"
+    },
+    {
+        "id": 609,
+        "city": "Białystok",
+        "district": "Białystok",
+        "province": "PODLASKIE",
+        "station_street": "Białystok, ul. Warszawska"
+    },
+    {
+        "id": 11294,
+        "city": "Zielona Góra",
+        "district": "Zielona Góra",
+        "province": "LUBUSKIE",
+        "station_street": "Zielona Góra,ul.Wyszyńskiego"
+    },
+    {
+        "id": 9173,
+        "city": "Dębica",
+        "district": "dębicki",
+        "province": "PODKARPACKIE",
+        "station_street": "Dębica, ul.Grottgera"
+    },
+    {
+        "id": 646,
+        "city": "Krosno",
+        "district": "Krosno",
+        "province": "PODKARPACKIE",
+        "station_street": "Krosno, ul. Kletówki"
+    },
+    {
+        "id": 455,
+        "city": "Niepołomice",
+        "district": "wielicki",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Niepołomice, ul. 3 Maja"
+    },
+    {
+        "id": 16753,
+        "city": "Myślenice",
+        "district": "myślenicki",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Myślenice"
+    },
+    {
+        "id": 20140,
+        "city": "Wysokie Mazowieckie",
+        "district": "wysokomazowiecki",
+        "province": "PODLASKIE",
+        "station_street": "Wysokie Mazowieckie, ul. 1 Maja"
+    },
+    {
+        "id": 466,
+        "city": "Kampinos",
+        "district": "warszawski zachodni",
+        "province": "MAZOWIECKIE",
+        "station_street": "Granica, KPN"
+    },
+    {
+        "id": 11254,
+        "city": "Nowa Ruda",
+        "district": "kłodzki",
+        "province": "DOLNOŚLĄSKIE",
+        "station_street": "Nowa Ruda, ul. Jeziorna"
+    },
+    {
+        "id": 11278,
+        "city": "Lubliniec",
+        "district": "lubliniecki",
+        "province": "ŚLĄSKIE",
+        "station_street": "Lubliniec, ul. ks. Szymały"
+    },
+    {
+        "id": 10446,
+        "city": "Rabka-Zdrój",
+        "district": "nowotarski",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Rabka-Zdrój, ul. Orkana"
+    },
+    {
+        "id": 11434,
+        "city": "Zabierzów",
+        "district": "krakowski",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Zabierzów, ul. Wapienna"
+    },
+    {
+        "id": 16406,
+        "city": "Cieszyn",
+        "district": "cieszyński",
+        "province": "ŚLĄSKIE",
+        "station_street": "Cieszyn, ul. Chopina"
+    },
+    {
+        "id": 678,
+        "city": "Sanok",
+        "district": "sanocki",
+        "province": "PODKARPACKIE",
+        "station_street": "Sanok, ul. Sadowa"
+    },
+    {
+        "id": 17118,
+        "city": "Uście Gorlickie",
+        "district": "gorlicki",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Wysowa-Zdrój, Park Zdrojowy"
+    },
+    {
+        "id": 17179,
+        "city": "Rzeszów",
+        "district": "Rzeszów",
+        "province": "PODKARPACKIE",
+        "station_street": "Rzeszów, ul. Starzyńskiego"
+    },
+    {
+        "id": 11303,
+        "city": "Kraków",
+        "district": "Kraków",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Kraków, os. Swoszowice"
+    },
+    {
+        "id": 16270,
+        "city": "Bytów",
+        "district": "bytowski",
+        "province": "POMORSKIE",
+        "station_street": "Bytów, ul. Miła"
+    },
+    {
+        "id": 275,
+        "city": "Radzyń Podlaski",
+        "district": "radzyński",
+        "province": "LUBELSKIE",
+        "station_street": "Radzyń Podlaski, ul. Sitkowskiego"
+    },
+    {
+        "id": 16613,
+        "city": "Nowa Sól",
+        "district": "nowosolski",
+        "province": "LUBUSKIE",
+        "station_street": "Nowa Sól"
+    },
+    {
+        "id": 16894,
+        "city": "Nowy Targ",
+        "district": "nowotarski",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Nowy Targ, al. Tysiąclecia "
+    },
+    {
+        "id": 20307,
+        "city": "Krotoszyn",
+        "district": "krotoszyński",
+        "province": "WIELKOPOLSKIE",
+        "station_street": "Krotoszyn, ul. Olimpijska"
+    },
+    {
+        "id": 577,
+        "city": "Kluczbork",
+        "district": "kluczborski",
+        "province": "OPOLSKIE",
+        "station_street": "Kluczbork, ul. Mickiewicza"
+    },
+    {
+        "id": 20387,
+        "city": "Nysa",
+        "district": "nyski",
+        "province": "OPOLSKIE",
+        "station_street": "Nysa, ul. Rodziewiczówny 1"
+    },
+    {
+        "id": 10817,
+        "city": "Muszyna",
+        "district": "nowosądecki",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Złockie, szkoła podstawowa"
+    },
+    {
+        "id": 11301,
+        "city": "Olkusz",
+        "district": "olkuski",
+        "province": "MAŁOPOLSKIE",
+        "station_street": "Olkusz, ul. Cegielniana"
+    },
+    {
+        "id": 16497,
+        "city": "Kielce",
+        "district": "Kielce",
+        "province": "ŚWIĘTOKRZYSKIE",
+        "station_street": "Kielce, ul. Jurajska"
+    }
+]

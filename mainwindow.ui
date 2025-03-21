@@ -14,23 +14,13 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPlainTextEdit" name="cityInput">
-    <property name="geometry">
-     <rect>
-      <x>90</x>
-      <y>80</y>
-      <width>104</width>
-      <height>70</height>
-     </rect>
-    </property>
-   </widget>
    <widget class="QPushButton" name="citySearch">
     <property name="geometry">
      <rect>
-      <x>290</x>
-      <y>100</y>
-      <width>80</width>
-      <height>24</height>
+      <x>460</x>
+      <y>40</y>
+      <width>91</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="text">
@@ -40,11 +30,34 @@
    <widget class="QTextBrowser" name="resultBrowser">
     <property name="geometry">
      <rect>
-      <x>370</x>
-      <y>200</y>
-      <width>256</width>
-      <height>192</height>
+      <x>10</x>
+      <y>80</y>
+      <width>541</width>
+      <height>321</height>
      </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="cityInput">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>40</y>
+      <width>441</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="cityInputLabel">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>231</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Search for city</string>
     </property>
    </widget>
   </widget>
